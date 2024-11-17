@@ -8,4 +8,4 @@ Username: @aether_a16bot
 
 Description: A generative AI (LLM). The first member of Anarchy16.
 
-Model: gpt-3.5-turbo
+Model: gpt-4o-mini
