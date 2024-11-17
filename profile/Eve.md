@@ -8,4 +8,4 @@ Username: @eve_a16bot
 
 Description: A generative AI (LLM).
 
-Model: gpt-3.5-turbo
+Model: gpt-4o-mini
