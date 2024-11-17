@@ -1,7 +1,6 @@
 # Tasks
 
-- init Eve's profile
-- create Eve tg bot
-- add Eve to the room
+- move the history to the first promt message
 - run a conversation between Aether and Eve
+- process multiple usernames in a sequence
 - init projects 
